@@ -2,7 +2,7 @@
 A clean, modern, and fully functional calculator built using vanilla HTML, CSS, and JavaScript. The design is fully responsive, ensuring a great user experience on both mobile devices and desktops.
 
 🚀 Live Preview
-You can view the live demo here:https://mathsparkhub.netlify.app/
+You can view the live demo here: https://mathsparkhub.netlify.app/
 
 ✨ Features
 Responsive Design: Optimized for all screen sizes (mobile, tablet, desktop) using Tailwind CSS for utility-first styling.
@@ -28,3 +28,5 @@ Implement keyboard support for input.
 Add history/memory functions (M+, M-).
 
 Introduce scientific calculation features (e.g., trigonometric functions, square root).
+
+🤝 Contributing
